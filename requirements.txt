@@ -13,4 +13,4 @@ werkzeug==2.0.3
 transformers
 gunicorn
 flask-cors
-
+starlette
